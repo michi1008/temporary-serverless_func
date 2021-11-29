@@ -12,7 +12,6 @@ const fetchProducts = async () => {
      <div class="info">
      <h5>${name}</h5>
      <h5 class="price">$${price}</h5>
-
      </div>
      </a>`
       })
